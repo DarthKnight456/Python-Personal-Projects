@@ -1,0 +1,16 @@
+.env
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Vector database storage
+chroma_path/
+chroma_db/
+data/
+
+# Python cache files
+__pycache__/
+*.pyc
+.DS_Store

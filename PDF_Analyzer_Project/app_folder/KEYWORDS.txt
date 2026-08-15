@@ -1,0 +1,3 @@
+Hybrid Search 
+
+Reciprocal Rank Fusion - combines vector(semantic) search with exact search to find top results
